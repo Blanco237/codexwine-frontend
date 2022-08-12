@@ -1,0 +1,234 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(../signin/logo/loginb3.jpg);
+    
+}
+
+.start{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.img1{
+    height: 60px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.class1bi{
+    display: flex;
+    background-color: rgb(18, 209, 209);
+    width: 100%;
+    text-align: center;
+   
+}
+ a{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    width: 100%;
+}
+.log{
+    font-weight: bolder;
+    font-size: 23px;
+}
+.button1 a:link {
+    color:black;
+  }
+  .start a:link {
+    color:black;
+  }
+  
+.button1 a:visited {
+    color: black;
+  }
+  .start a:visited {
+    color: black;
+  }
+
+.button1  a:hover {
+    color: rgb(250, 250, 250);
+  }
+ .start a:hover {
+    color: blue;
+  }
+.button1 a:active {
+    color: black;
+  }
+ .start a:active {
+    color: black;
+  }
+.button1{
+    display: flex;
+    width: 50%;
+    background-color: rgb(82, 231, 231);
+    text-align: center;
+    
+}
+.button2{
+    display: flex;
+    width: 50%;
+    text-align: center;
+}
+.class1bii{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+    align-items: center;   
+}
+h2{
+    width: 100%;
+    font-family: "Mulish", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; 
+}
+h1{
+    font-family: "Mulish", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; 
+    width: 100%;
+    font-size: 40px; 
+}
+.class1a{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.class1b{
+    width: 70%;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.term{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+  
+  }
+  .tcontrol{
+    width: 15px;
+  }
+  article{
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+      width: 50%;
+  }
+  .article{
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+
+  }
+  .name{
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      gap: 3px;
+  }
+  input{
+      width: 100%;
+  }
+  label{
+      font-weight: bolder;
+      font-size: 18px;
+  }
+  .control1{
+    display: flex;
+    height: 30px;
+    
+    border-radius: 15px;
+    background-color: white;
+    border: 1px solid #ced4da;
+  }
+  .control{
+      display: flex;
+      height: 30px;
+      border-radius: 15px;
+      background-color: white;
+      border: 1px solid #ced4da;
+  }
+  .term1{
+      display: flex;
+      flex-direction: column;
+  }
+  .t1{
+      width: 200%;
+      display: flex;
+      flex-direction: row; 
+      gap: 3px; 
+  }
+  .t2{
+      color: rgb(7, 114, 156);
+      font-weight: bolder;
+      
+  }
+  .submit{
+      display: flex;
+      align-self: flex-end;
+      width: 100px;
+  }
+  .same{
+    font-weight: bolder; 
+    width: 100%;
+     border-radius: 15px;
+     color: rgb(255, 255, 255); 
+     background-color: rgb(22, 113, 231);
+     border: none;
+     height: 30px;
+  }
+  .class2a{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+  }
+  .nam{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+   gap: 20px;
+  }
+  .name1{
+      display: flex;
+      flex-direction: row;
+      
+  }
+  .name1 input{
+      background-image: url(../signin/logo/eye\ 1.png );
+      background-position: right;
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position-x: 97%;
+      background-size: 20px;
+  }
+  .copyr{
+      height: 20px;
+  }
+  .class2b{
+      padding-top: 10px;
+      display: flex;
+      flex-direction: row;
+      gap: 5px;
+  }
+  .copy ,.copyright{
+      color: white;
+  }
+  .class2 ,.class2c{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
